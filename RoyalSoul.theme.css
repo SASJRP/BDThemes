@@ -4,7 +4,29 @@
 * @description Made by DeathSoulYT
 * @author DeathSoulYT
 * @invite nqCUu2YBWx
-* @Source https://github.com/SASJRP/themes
-* @website https://betterdiscord.app/theme/RoyalSoul
+* @Source https://github.com/SASJRP/BDThemes/RoyalSoul.theme.css
+* @website https://github.com/SASJRP/BDThemes/RoyalSoul.theme.css
 */
+
+/* Main Design */
 @import url("https://sasjrp.github.io/RoyalSoul/src/main.css");
+
+/* User Panel */
+@import url("https://sasjrp.github.io/RoyalSoul/src/user-panel.css");
+
+/* VC Buttons Panel */
+@import url("https://sasjrp.github.io/RoyalSoul/src/vc-buttons.css");
+
+
+/* .avatarWrapper-1B9FTW {
+    position: relative;
+    height: 38px;
+    left: -5px;
+    top: 15px;
+    border-left-color: cyan;
+    border-right-color: cyan;
+    border-style: solid;
+    border-width: 1px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+} */
